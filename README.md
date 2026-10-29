@@ -4,9 +4,7 @@
 - 👨‍💻 **Role:** Frontend Developer
 - 🎓 **Education:** Software Engineering Student @ Gia Dinh University (GDU)
 - 🎯 **Focus:** Building responsive, modern, and user-friendly web interfaces & Enterprise UI Customization
-
 ---
-
 ### 💼 Work Experience
 #### **Software Engineer Intern** @ *IMESPRO Co., Ltd*
 *05/2026 – 07/2026*
@@ -14,9 +12,7 @@
 - Developed and customized user interfaces (Frontend) using **Client Scripts (JavaScript)**, building dynamic data filtering mechanisms based on `Purchase Receipt`.
 - Implemented bulk processing features (*Quick Pass All*) and form UI/UX constraints (Dynamic UI/UX) to optimize workflows for the quality inspection team.
 - Programmed data flow validation, integrated intuitive navigation buttons (*View IQC Status*), and enforced frontend validation mechanisms to block document submission when criteria are unmet.
-
 ---
-
 ### 🛠️ Tech Stack & Tools
 **Frontend Technologies:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,7 +36,6 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
-
 ### 📌 Featured Projects
 <table>
   <thead>
@@ -62,7 +57,7 @@
       <td>Hệ thống quản lý đào tạo toàn diện giúp số hóa quy trình quản lý hồ sơ sinh viên, tối ưu hóa thao tác đăng ký tín chỉ và học phần theo lịch trình linh hoạt, đảm bảo độ chính xác cao trong việc theo dõi thông tin học tập.</td>
     </tr>
   </tbody>
-</table>|
+</table>
 
 ---
 
