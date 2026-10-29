@@ -1,4 +1,4 @@
-# Hi there, I'm Nguyễn Phạm Thanh Hà 👋
+# Hi there, I'm Nguyễn Phạm Thanh Hà
 
 ### 🚀 About Me
 - 👨‍💻 **Role:** Frontend Developer
