@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 👨‍💻 **Role:** Frontend Developer
-- 🎓 **Education:** Software Engineering Student @ Gia Dinh University (GDU)
+- 🎓 **Education:** Gia Dinh University (GDU)
 - 🎯 **Focus:** Building responsive, modern, and user-friendly web interfaces & Enterprise UI Customization
 ---
 ### 💼 Work Experience
