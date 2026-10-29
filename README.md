@@ -9,7 +9,6 @@
 ---
 
 ### 🚀 About Me
-
 - 💻 **Role:** Frontend Developer
 - 🎓 **Education:** Software Engineering Student @ Gia Dinh University (GDU)
 - 🎯 **Focus:** Building responsive, modern, and user-friendly web interfaces & Enterprise UI Customization
@@ -17,7 +16,6 @@
 ---
 
 ### 💼 Work Experience
-
 #### **Software Engineer Intern** @ *IMESPRO Co., Ltd*
 *05/2026 – 07/2026*
 - Participated in developing the **IQC (Incoming Quality Control) & Automated Stock Transfer System** on the ERPNext v15 platform.
@@ -28,7 +26,6 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-
 **Frontend Technologies:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,10 +46,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
 ---
 
 ### 📌 Featured Projects
-
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **GDU Chess Club Official Website** | HTML5, CSS3, JavaScript, Bootstrap | Trang web chính thức của CLB Cờ vua GDU CHESS — Nền tảng kết nối cộng đồng cờ vua sinh viên Trường Đại học Gia Định. Tích hợp không gian chia sẻ bí quyết, chiến thuật cờ đỉnh cao cùng module quản lý sự kiện trực quan, mượt mà. |
@@ -61,9 +58,8 @@
 ---
 
 ### 📫 Connect with Me
-
-<div align="center">
-
+<div align="left">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
