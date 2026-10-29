@@ -1,15 +1,7 @@
 # Hi there, I'm Nguyễn Phạm Thanh Hà 👋
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=400&lines=Frontend+Developer)](https://git.io/typing-svg)
-
-</div>
-
----
-
 ### 🚀 About Me
-- 💻 **Role:** Frontend Developer
+- 👨‍💻 **Role:** Frontend Developer
 - 🎓 **Education:** Software Engineering Student @ Gia Dinh University (GDU)
 - 🎯 **Focus:** Building responsive, modern, and user-friendly web interfaces & Enterprise UI Customization
 
@@ -50,10 +42,27 @@
 ---
 
 ### 📌 Featured Projects
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **GDU Chess Club Official Website** | HTML5, CSS3, JavaScript, Bootstrap | Trang web chính thức của CLB Cờ vua GDU CHESS — Nền tảng kết nối cộng đồng cờ vua sinh viên Trường Đại học Gia Định. Tích hợp không gian chia sẻ bí quyết, chiến thuật cờ đỉnh cao cùng module quản lý sự kiện trực quan, mượt mà. |
-| **Student Management & Course Registration System** | Java, Swing, JDBC, MySQL | Hệ thống quản lý đào tạo toàn diện giúp số hóa quy trình quản lý hồ sơ sinh viên, tối ưu hóa thao tác đăng ký tín chỉ và học phần theo lịch trình linh hoạt, đảm bảo độ chính xác cao trong việc theo dõi thông tin học tập. |
+<table>
+  <thead>
+    <tr>
+      <th align="center">Project</th>
+      <th align="center">Tech Stack</th>
+      <th align="center">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>GDU Chess Club Official Website</b></td>
+      <td>HTML5, CSS3, JavaScript, Bootstrap</td>
+      <td>Trang web chính thức của CLB Cờ vua GDU CHESS — Nền tảng kết nối cộng đồng cờ vua sinh viên Trường Đại học Gia Định. Tích hợp không gian chia sẻ bí quyết, chiến thuật cờ đỉnh cao cùng module quản lý sự kiện trực quan, mượt mà.</td>
+    </tr>
+    <tr>
+      <td><b>Student Management & Course Registration System</b></td>
+      <td>Java, Swing, JDBC, MySQL</td>
+      <td>Hệ thống quản lý đào tạo toàn diện giúp số hóa quy trình quản lý hồ sơ sinh viên, tối ưu hóa thao tác đăng ký tín chỉ và học phần theo lịch trình linh hoạt, đảm bảo độ chính xác cao trong việc theo dõi thông tin học tập.</td>
+    </tr>
+  </tbody>
+</table>|
 
 ---
 
