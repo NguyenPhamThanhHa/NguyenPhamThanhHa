@@ -9,9 +9,13 @@
 #### **Software Engineer Intern** @ *IMESPRO Co., Ltd*
 *05/2026 – 07/2026*
 - Participated in developing the **IQC (Incoming Quality Control) & Automated Stock Transfer System** on the ERPNext v15 platform.
-- Developed and customized user interfaces (Frontend) using **Client Scripts (JavaScript)**, building dynamic data filtering mechanisms based on `Purchase Receipt`.
-- Implemented bulk processing features (*Quick Pass All*) and form UI/UX constraints (Dynamic UI/UX) to optimize workflows for the quality inspection team.
-- Programmed data flow validation, integrated intuitive navigation buttons (*View IQC Status*), and enforced frontend validation mechanisms to block document submission when criteria are unmet.
+- Developed and customized user interfaces (Frontend) using **Client Scripts (JavaScript)**, building dynamic data filtering mechanisms based on `Purchase Receipt` .
+- Implemented bulk processing features **(Quick Pass All)** and form UI/UX constraints (Dynamic UI/UX) to optimize workflows for the quality inspection team.
+- Programmed data flow validation, integrated intuitive navigation buttons **(View IQC Status)**, and enforced frontend validation mechanisms to block document submission when criteria are unmet.
+- Implemented frontend validation to prevent document submission when predefined inspection criteria were not satisfied.
+- Worked with **Frappe Framework and ERPNext DocTypes**, understanding document structures, field dependencies, and business workflows.
+- Debugged and tested Client Scripts to identify UI behavior issues and ensure reliable system operation.
+- Collaborated in customizing ERPNext workflows to align system functionality with actual business requirements.
 ---
 ### 🛠️ Tech Stack & Tools
 **Frontend Technologies:**
@@ -49,12 +53,12 @@
     <tr>
       <td><b>GDU Chess Club Official Website</b></td>
       <td>HTML5, CSS3, JavaScript, Bootstrap</td>
-      <td>Trang web chính thức của CLB Cờ vua GDU CHESS — Nền tảng kết nối cộng đồng cờ vua sinh viên Trường Đại học Gia Định. Tích hợp không gian chia sẻ bí quyết, chiến thuật cờ đỉnh cao cùng module quản lý sự kiện trực quan, mượt mà.</td>
+      <td> Official website of GDUCHESS — A platform connecting the student chess community at Gia Dinh University. Featuring a dedicated space for sharing chess tips, advanced strategies, and insights, alongside an intuitive and seamless event management module.</td>
     </tr>
     <tr>
       <td><b>Student Management & Course Registration System</b></td>
       <td>Java, Swing, JDBC, MySQL</td>
-      <td>Hệ thống quản lý đào tạo toàn diện giúp số hóa quy trình quản lý hồ sơ sinh viên, tối ưu hóa thao tác đăng ký tín chỉ và học phần theo lịch trình linh hoạt, đảm bảo độ chính xác cao trong việc theo dõi thông tin học tập.</td>
+      <td> A comprehensive academic management system designed to digitize student record management, streamline credit and course registration through flexible scheduling, and ensure high accuracy in tracking and managing academic records.</td>
     </tr>
   </tbody>
 </table>
