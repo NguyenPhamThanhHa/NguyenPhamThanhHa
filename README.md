@@ -53,7 +53,7 @@
   <tbody>
     <tr>
       <td><b>GDU Chess Club Official Website</b></td>
-      <td>HTML5, CSS3, JavaScript, Bootstrap</td>
+      <td>HTML5, CSS3, JavaScript, Vercel</td>
       <td> Official website of GDUCHESS — A platform connecting the student chess community at Gia Dinh University. Featuring a dedicated space for sharing chess tips, advanced strategies, and insights, alongside an intuitive and seamless event management module.</td>
     </tr>
     <tr>
