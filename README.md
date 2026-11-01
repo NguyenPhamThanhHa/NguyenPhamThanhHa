@@ -101,7 +101,8 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://thanh-h-hq.slack.com/team/U0CDW0TCJ78)
 
 </div>
-----
+
+---
 <div align="center">
 
 ⭐ *Thank you for visiting my GitHub profile!*
