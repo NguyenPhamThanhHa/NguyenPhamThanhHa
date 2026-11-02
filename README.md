@@ -1,7 +1,7 @@
 # Hi there, I'm Nguyễn Phạm Thanh Hà
 
 ### 🚀 About Me
-- 👨‍💻 **Role:** Software Enginerr
+- 👨‍💻 **Role:** Software Engineer
 - 🎓 **Education:** Gia Dinh University (GDU) – Software Engineering
 - 🎯 **Focus:** Building responsive, modern, and user-friendly web interfaces, with an interest in Enterprise UI Customization.
 - 💡 **Interests:** Frontend Development, Web Applications, and Software Engineering.
