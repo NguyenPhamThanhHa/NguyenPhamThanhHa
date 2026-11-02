@@ -1,4 +1,4 @@
-# Hi there, I'm Nguyễn Phạm Thanh Hà 👋
+# Hi there, I'm Nguyễn Phạm Thanh Hà
 
 ### 🚀 About Me
 - 👨‍💻 **Role:** Frontend Developer
@@ -20,6 +20,40 @@
 - Integrated navigation features (**View IQC Status**) and customized form UI/UX to improve user interaction.
 - Worked with **Frappe Framework and ERPNext DocTypes**, understanding document structures, field dependencies, and business workflows.
 - Debugged and tested Client Scripts to ensure reliable system behavior and meet business requirements.
+
+---
+
+### 📌 Featured Projects
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">Project</th>
+      <th align="center">Tech Stack</th>
+      <th align="center">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>GDU Chess Club Official Website</b></td>
+      <td>HTML5, CSS3, JavaScript, Vercel</td>
+      <td>
+        Official website of GDU Chess Club at Gia Dinh University. 
+        Provides a platform for the student chess community to explore chess news, 
+        strategies, rankings, and tournament information through a responsive and user-friendly interface.
+      </td>
+    </tr>
+    <tr>
+      <td><b>Student Management & Course Registration System</b></td>
+      <td>Java, Swing, JDBC, MySQL</td>
+      <td>
+        A desktop application designed to manage student records and course registration. 
+        Supports adding, updating, deleting, searching, and displaying student information, 
+        as well as managing courses and academic registrations.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -58,39 +92,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-<table>
-  <thead>
-    <tr>
-      <th align="center">Project</th>
-      <th align="center">Tech Stack</th>
-      <th align="center">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>GDU Chess Club Official Website</b></td>
-      <td>HTML5, CSS3, JavaScript, Vercel</td>
-      <td>
-        Official website of GDU Chess Club at Gia Dinh University. 
-        Provides a platform for the student chess community to explore chess news, 
-        strategies, rankings, and tournament information through a responsive and user-friendly interface.
-      </td>
-    </tr>
-    <tr>
-      <td><b>Student Management & Course Registration System</b></td>
-      <td>Java, Swing, JDBC, MySQL</td>
-      <td>
-        A desktop application designed to manage student records and course registration. 
-        Supports adding, updating, deleting, searching, and displaying student information, 
-        as well as managing courses and academic registrations.
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
 ### 📫 Connect with Me
 
 <div align="left">
